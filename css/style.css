@@ -1,0 +1,40 @@
+.header{
+
+	background-color: rgb(16, 29, 107);
+	height: 100px;
+	width: auto;
+	padding: 1%;
+}
+
+.header-title{
+	font-family: orbitron;
+	color: rgb(255, 255, 232);
+	font-size: 20px;
+	/*margin-top: -3%;*/
+	text-align: center;
+}
+
+.row{
+	height: 24%;
+	margin-bottom: 10px;
+
+}
+
+body{
+	height: 100vh;
+	background-image: url("../images/bg.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	}
+
+.container{
+	height: 100%;
+}
+
+.card{
+	height: 100%;
+	margin-left: 6%;
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position: center;
+}
